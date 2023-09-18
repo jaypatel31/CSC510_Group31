@@ -1,0 +1,129 @@
+Observations,Score,Comments
+,,
+Software Working through Doc,,
+"Does the website and documentation provide a clear, high-level overview of your software?",Y,
+Does the website and documentation clearly describe the type of user who should use your software?,N,
+Do this project publish case studies to show how your software has been used by yourself and others?,N,
+,,
+Project and Software's Uniquness,,
+Is the name of the project/software unique?,Y,"For this, project I think the name is not unique, but perfectly describe the software's working"
+Is the project/software name free from trademark violations?,N/A,
+,,
+Avaibility of Software,,
+Is this software available as a package that can be deployed without building it?,N,
+Is your software available for free?,Y,
+"Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?",Y,
+"Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?",Y,
+,,
+Software's documentation,,
+Is the documentation clearly available on your website or within your software?,Y,
+"Does the documentation include a ""quick start"" guide, that provides a short overview of how to use your software with some basic examples of use?",Y,
+"If the documentation is extensive, does this provide clear, step-by-step instructions on how to deploy and use the software?",N,
+"Does it provide a comprehensive guide to all the software’s commands, functions and options?",Y,
+Do it provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?,N,
+"If the software can be used as a library, package or service by other software, do it provide comprehensive API documentation?",N/A,
+Does documentation is stored under revision control with the source code?,Y,
+"Do the software publish release history e.g. release data, version numbers, key features of each release etc. on their web site or in your documentation?",N,
+,,
+Software User Support,,
+Does this software describe how a user can get help with using your software?,Y,
+"Does the website and documentation describe what support, if any, you provide to users and developers?",N,
+Does the project have an e-mail address or forum that is solely for supporting users?,N,
+Are e-mails to it's support e-mail address received by more than one person?,N/A,
+Does this project have a ticketing system to manage bug reports and feature requests?,Y,It uses github Issue and Pull Requests
+"Is the project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?",Y,
+,,
+Software's Maintance,,
+Is the software’s architecture and design modular?,Y,
+Does the software use an accepted coding standard or convention?,Y,
+,,
+Open standards in software,,
+"Does your software allow data to be imported and exported using open data formats?* e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones",N,There isn't any data communication happening in the software
+"Does your software allow communications using open communications protocols?*e.g. HTTP, FTP, XMPP, SOAP over HTTP, or domain-specific ones",N,
+,,
+Software's Cross-Compability,,
+"Is the software cross-platform compatible?* e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari?",N,It does not provide support for how to use it across various OS
+,,
+Software's accessibility,,
+Does the software adhere to appropriate accessibility conventions or standards?,N,
+Does the documentation adhere to appropriate accessibility conventions or standards?,N,
+,,
+Software's Realising Cycle,,
+Is the source code stored in a repository under revision control?,Y,
+Is each source code release a snapshot of the repository?,N/A,
+Are releases tagged in the repository?,Y,
+"Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)",Y,
+Do the sofware back-up it's repository?,Y,
+,,
+Software's Installation and Build,,
+Do it provide publicly-available instructions for building the software from the source code?,Y,
+"Can it build, or package, the software using an automated tool?* e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)",Y,python setuptools is used in this
+Do it provide publicly-available instructions for deploying the software?,Y,
+Does the documentation list all third-party dependencies?,Y,
+Does the documentation list the version number for all third-party dependencies?,N,
+"Does the software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?",N,
+"Can it download dependencies using a dependency management tool or package manager?* e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)",Y,
+Do it have tests that can be run after the software has been built or deployed to show whether the build or deployment has been successful?,Y,
+,,
+Software's Testing,,
+Do it have an automated test suite for the software?,N,"Test cases are present, but automation for that is not provided"
+Do it have a framework to periodically (e.g. nightly) run the tests on the latest version of the source code?,N,
+"Do it use continuous integration, automatically running tests whenever changes are made to the source code?",Y,They have used travis.ci for continuous integration in github
+Are the test results publicly visible?,N,
+Are all manually-run tests documented?,N,
+,,
+Software's Community Engagement,,
+"Does the project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software?* e.g. release announcements, publications, workshops, conference presentations",N,
+Does the website state how many projects and users are associated with the project?,N,"As it is on github, so we can see how many user has forked it, but other then it no states are provided on readme or documentation."
+Do it provide success stories on the website?,N,
+Do it list the important partners and collaborators on their website?,Y,
+Do it list the project's publications on their website or link to a resource where these are available?,N,
+Do it list third-party publications that refer to the software on the website or link to a resource where these are available?,N,
+Can users subscribe to notifications to changes to the source code repository?,Y,
+"If the software is developed as an open source project (and, not just a project developing open source software), do it have a governance model?",N/A,
+,,
+Software's Contribution Management,,
+"Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?",Y,
+Do you have a contributions policy?,Y,
+Is your contributions' policy publicly available?,Y,
+Do contributors keep the copyright/IP of their contributions?,N/A,
+,,
+Software's Licensing,,
+Does the website and documentation clearly state the copyright owners of the software and documentation?,Y,
+Does each of the source code files include a copyright statement?,N,
+Does the website and documentation clearly state the licence of your software?,Y,Yes it is on MIT Licence and clearly stated it
+Is the software released under an open source licence?,Y,
+Is the software released under an OSI-approved open-source licence?,Y,
+Does each of the source code files include a licence header?,N,
+Do it have a recommended citation for your software?,Y,Yes Citation.md file is present
+,,
+Software's Future Plan,,
+"Does the website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)",N,They provided the past functionalities and the functionalities that they have added
+"Does the website or documentation describe how the project is funded, and the period over which funding is guaranteed?",N/A,
+"Do you make timely announcements of the deprecation of components, APIs, etc.?",N/A,
+,,
+,,
+Workload is spread over the whole team,2,Can see commit's from different people on github Insights
+Number of commits,3,"It has 130 commits, which is good amount of commit on project done for small duration"
+Number of commits: by different people,1,2 memebers of the team have the most commits.
+Issues reports,3,There are 17 Issues reported and Resolved
+Issues are being closed,3,
+DOI badge: exists,3,"There are certain badges exist like licence, buildpassing, issues closed, etc"
+"Docs: doco generated, format not ugly",N/A,No Doc's Auto generation is implemented
+Docs: what: point descriptions of each class/function (in isolation),2,provides the general overview of different functionalities in readme file
+"Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z",2,
+"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing",2,"Sceeming though readme provides some basic level info of what does the software do and why should I use it, but it could be better"
+Use of version control tools,3,
+Use of style checkers,3,Used flake8 for both style checking and code analyzing
+Use of code formatters.,3,Used flake8 for both style checking and code analyzing
+Use of syntax checkers.,0,
+Use of code coverage,3,
+Other automated analysis tools,0,
+Test cases exist,2,Test cases for most of the main funcionality do exist
+Test cases are routinely executed,0,No automation on that provided
+The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up,3,
+Issues are discussed before they are closed,1,There are only some issue that are discussed thoroughly
+Chat channel: exists,0,
+Test cases: a large proportion of the issues related to handling failing cases.,1,Most Issues are related to enhancement type
+"Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)",3,
+Evidence that the members of the team are working across multiple places in the code base,3,Can been seen through commit history
