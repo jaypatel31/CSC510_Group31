@@ -1,5 +1,11 @@
 # Project 1
 
+## Group Details: Group No - 31
+1) [Jay Patel](https://github.com/jaypatel31): jhpatel9
+2) [Devansh Shah](https://github.com/drs1951): dshah8
+3) [Shyamal Gandhi](https://github.com/shyamal31): sgandhi6
+4) [Shail Shah](https://github.com/shail611): sshah38
+
 ## Part 1: Project Rubrics
 1. Project O [GITS](https://github.com/harshitpatel96/GITS): [Project O GITS Rubric.csv](https://github.com/jaypatel31/CSC510_Group31/blob/main/proj1/Project%20O%20GITS%20Rubric.csv)
 2. Project A [86 No More](https://github.com/shantanu109/CSC510_Group25_Project1): [Project A 86 No More Rubric.csv](https://github.com/jaypatel31/CSC510_Group31/blob/main/proj1/Project%20A%2086%20No%20More%20Rubric.csv)
