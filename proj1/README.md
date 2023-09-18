@@ -1,10 +1,22 @@
 # Project 1
 
-## Introduction
+## Part 1: Project Rubrics
+1. Project O [GITS](https://github.com/harshitpatel96/GITS): [Project O GITS Rubric.csv](https://github.com/jaypatel31/CSC510_Group31/blob/main/proj1/Project%20O%20GITS%20Rubric.csv)
+2. Project A [86 No More](https://github.com/shantanu109/CSC510_Group25_Project1): [Project A 86 No More Rubric.csv](https://github.com/jaypatel31/CSC510_Group31/blob/main/proj1/Project%20A%2086%20No%20More%20Rubric.csv)
+3. Project T [GITS](https://github.com/bhavesh242/GITS): [Project T GITS Rubric.csv](https://github.com/jaypatel31/CSC510_Group31/blob/main/proj1/Project%20T%20GITS%20Rubric.csv)
+4. Project f [Slash](https://github.com/NCSU-Group7-SE2021/slash/): [Project f Slash Rubric.csv](https://github.com/jaypatel31/CSC510_Group31/blob/main/proj1/Project%20f%20Slash%20Rubric.csv)
+5. Project m [Classmate Bot](https://github.com/lyonva/ClassMateBot): [Project m Classmate Bot Rubric.csv](https://github.com/jaypatel31/CSC510_Group31/blob/main/proj1/Project%20m%20Classmate%20Bot%20Rubric.csv)
+
+## Part 2: Project Walkthrough Video
+Youtube Link: https://youtu.be/dsR_W8TjSJ8
+
+## Part 3: Essay
+
+### Introduction:
 
 This web application project primarily focuses on providing a smart inventory management solution to restaurants. The software has the feature of sending notifications to managers whenever the restaurant is running low on specific ingredients. Additionally, the software tracks the analytics of the usage of different food items and the ingredients used for that. We have selected this software as part of our "Software Engineering" project, and we will try to enhance the software experience by removing its discrepancies and issues.
 
-## Difficulties Faced While Running the Software
+### Difficulties Faced While Running the Software:
 
 First, we forked the GitHub repository of "86 No more" and cloned it to our local machines. We faced many difficulties while running the software on our local machines. As the project was made 2-3 years ago, we expected to encounter many outdated dependencies, but there were many other issues associated with the project as well. 
 
@@ -23,14 +35,14 @@ There were some other logical issues associated with the various functionalities
 
 **Security Issue:** For proper authorization of data, the API should restrict the access of data from other restaurants from being publicly accessible.
 
-## How These Challenges Could Have Been Avoided
+### How These Challenges Could Have Been Avoided:
 
 - They should have removed all the unused variables so that the debugging process would have become easier for us.
 -  Instead of using a local database, they could have used a cloud-based version of a database to collaborate easily with peers.
 -  Even after knowing that the test cases are failing, they should have properly documented the steps needed to overcome the issues.
 -  The last commit of the project was made in 2021, and during that time, they should have made sure that the project was compatible with the latest version of Node.js present at that time.
 
-## Pathway to Project 2
+### Pathway to Project 2
 
 - First, we will merge the separate repositories of frontend and backend.
 - There are various security-related issues in the project. Firstly, the password is directly stored in the database without any kind of encryption. Secondly, the API is created in such a way that the data of all the restaurants is sent to the client, and the filtration of data is done on the client side. This is a major security issue because the user of one restaurant should not be able to access the data of other restaurants. Lastly, there should have been a .env file for storing confidential tokens such as API token and database password.
