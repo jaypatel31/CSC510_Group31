@@ -52,3 +52,7 @@ There were some other logical issues associated with the various functionalities
 - We’ll make sure all the functionalities mentioned in the documentation will work properly.
 - We will provide proper documentation to run this project on the latest version of Node so that our successors won’t have to deal with such issues.
 
+## Repo Forked Links:
+- Frontend: https://github.com/drs1951/CSC510_Group31
+- Backend: https://github.com/drs1951/86_Backend 
+
