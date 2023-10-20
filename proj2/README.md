@@ -6,7 +6,7 @@
 3) [Shyamal Gandhi](https://github.com/shyamal31): sgandhi6
 4) [Shail Shah](https://github.com/shail611): sshah38
 
-## Part 1: Project Rubrics
-
+## Part 1: Project Rubric
+Project Rubric: [Rubric Link](https://github.com/jaypatel31/CSC510_Group31/blob/main/proj2/Project2_Rubric.csv)
 
 ## Part 2: Project Walkthrough Video
