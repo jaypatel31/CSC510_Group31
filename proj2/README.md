@@ -10,7 +10,7 @@
 Project Rubric: [Rubric Link](https://github.com/jaypatel31/CSC510_Group31/blob/main/proj2/Project2_Rubric.csv)
 
 ## Part 2: Project Walkthrough Video
-
+Walkthrough Video: [Drive Link](https://drive.google.com/file/d/131rbBACdOM-kVroWzqu_8sJj7QzTT34-/view)
 
 ## Project Repo Links:
 Frontend: https://github.com/drs1951/CSC510_Group31 \
