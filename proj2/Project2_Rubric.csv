@@ -1,7 +1,7 @@
 Observations,Score,Comments
 ,,
 Software Working through Doc,,
-"Does the website and documentation provide a clear, high-level overview of your software?",Y,Here is the documentation
+"Does the website and documentation provide a clear, high-level overview of your software?",Y,Here is the documentation. https://github.com/drs1951/CSC510_Group31#86-no-more-a-kitchen-intelligence-solution
 Does the website and documentation clearly describe the type of user who should use your software?,Y,
 Do this project publish case studies to show how your software has been used by yourself and others?,Y,
 ,,
@@ -16,9 +16,9 @@ Is your software available for free?,Y,It is open source with MIT Licence
 "Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?",Y,Hosted on github.com
 ,,
 Software's documentation,,
-Is the documentation clearly available on your website or within your software?,Y,Here is the documentation
-"Does the documentation include a ""quick start"" guide, that provides a short overview of how to use your software with some basic examples of use?",Y,Here is the link to the Demo.
-"If the documentation is extensive, does this provide clear, step-by-step instructions on how to deploy and use the software?",Y,Installation guide is provided.
+Is the documentation clearly available on your website or within your software?,Y,Here is the documentation. https://github.com/drs1951/CSC510_Group31#86-no-more-a-kitchen-intelligence-solution
+"Does the documentation include a ""quick start"" guide, that provides a short overview of how to use your software with some basic examples of use?",Y,Here is the link to the Demo. https://github.com/drs1951/CSC510_Group31#-demo
+"If the documentation is extensive, does this provide clear, step-by-step instructions on how to deploy and use the software?",Y,Installation guide is provided. https://github.com/drs1951/CSC510_Group31#installation-guide
 "Does it provide a comprehensive guide to all the software’s commands, functions and options?",Y,"Home page of the repository covers all the functions. Also, appropriate documentation is provided with corresponding files."
 Does it provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?,Y,All commands are keeping in mind the potential errors. e.g. https://github.com/drs1951/CSC510_Group31#step-3-handle-potential-errors
 "If the software can be used as a library, package or service by other software, do it provide comprehensive API documentation?",N/A,
@@ -27,7 +27,7 @@ Is documentation stored under revision control with the source code?,Y,Github is
 ,,
 Software User Support,,
 Does this software describe how a user can get help with using your software?,Y,"Comprehensive documentation has been provided. Still if a user has any difficulty, he/she can reach out to us using our email address"
-"Does the website and documentation describe what support, if any, you provide to users and developers?",Y,"Yes, we provide troubleshooting support"
+"Does the website and documentation describe what support, if any, you provide to users and developers?",Y,"Yes, we provide troubleshooting support. https://github.com/drs1951/CSC510_Group31#troubleshooting"
 Does the project have an e-mail address or forum that is solely for supporting users?,Y,86.no.more.help@gmail.com
 Are e-mails to it's support e-mail address received by more than one person?,Y,
 Does this project have a ticketing system to manage bug reports and feature requests?,Y,It uses github Issue and Pull Requests
@@ -70,7 +70,7 @@ Do it have an automated test suite for the software?,N,
 Do it have a framework to periodically (e.g. nightly) run the tests on the latest version of the source code?,N,
 "Do it use continuous integration, automatically running tests whenever changes are made to the source code?",N,No GitHub Actions are present for the same
 Are the test results publicly visible?,Y,https://github.com/drs1951/86_Backend/blob/main/docs/backend_testing.md#test-cases-for-backend-apis
-Are all manually-run tests documented?,Y,"Backend, Frontend"
+Are all manually-run tests documented?,Y,"Backend: https://github.com/drs1951/86_Backend/blob/main/docs/backend_testing.md, Frontend: https://github.com/drs1951/CSC510_Group31/blob/main/docs/frontend_testing.md"
 ,,
 Software's Community Engagement,,
 "Does the project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software?* e.g. release announcements, publications, workshops, conference presentations",N,
@@ -95,7 +95,7 @@ Does the website and documentation clearly state the licence of your software?,Y
 Is the software released under an open source licence?,Y,
 Is the software released under an OSI-approved open-source licence?,Y,
 Does each of the source code files include a licence header?,N,
-Do it have a recommended citation for your software?,Y,Yes Citation.md file is present
+Do it have a recommended citation for your software?,Y,Yes Citation.md file is present https://github.com/drs1951/CSC510_Group31/blob/main/CITATION.md
 ,,
 Software's Future Plan,,
 "Does the website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)",Y,https://github.com/users/drs1951/projects/1
@@ -119,11 +119,11 @@ Use of code formatters.,0,
 Use of syntax checkers.,0,
 Use of code coverage,3,We get code coverage on running backend test cases
 Other automated analysis tools,0,
-Test cases exist,3,"Backend, Frontend"
+Test cases exist,3,"Backend: https://github.com/drs1951/86_Backend/blob/main/docs/backend_testing.md, Frontend: https://github.com/drs1951/CSC510_Group31/blob/main/docs/frontend_testing.md"
 Test cases are routinely executed,0,No automation on that provided
 The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up,3,
 Issues are discussed before they are closed,2,Some issue are not discussed thoroughly.
-Chat channel: exists,3,Chat channel
+Chat channel: exists,3,https://github.com/jaypatel31/CSC510_Group31/discussions
 Test cases: a large proportion of the issues related to handling failing cases.,3,Most Issues were related to bug fixes as even basic functionality was missing 
 "Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)",3,
 Evidence that the members of the team are working across multiple places in the code base,3,Can been seen through commit history
