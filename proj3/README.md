@@ -10,7 +10,7 @@
 Project Rubric: [Rubric Link](https://github.com/jaypatel31/CSC510_Group31/blob/main/proj3/Project3_Rubric.csv)
 
 ## Part 2: Project Walkthrough Video
-Walkthrough Video: 
+Walkthrough Video: [Drive Link](https://drive.google.com/file/d/1nCN8phch_celSRCWX2G5RxKqbnxRehx-/view?usp=drive_link)
 
 ## Project Repo Links:
 Unit Convertor: https://github.com/shyamal31/units_converter_extension/
